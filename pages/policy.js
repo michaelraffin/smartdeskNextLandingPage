@@ -2,13 +2,14 @@ import Head from "next/head";
 import Header from "../components/Header";
 import Main from "../components/Main";
 import Footer from "../components/Footer";
+import PolicyContent from "../components/PolicyContent";
 import FAQ from "../components/FAQ";
-import { NextSeo } from "next-seo";
 
-export default function Home() {
-  return (
-    <div className="text-black bg-black">
-      <NextSeo
+import { NextSeo } from "next-seo";
+export default function Policy() {
+    return (
+      <div className="text-black bg-black">
+        <NextSeo
         title="Home: SmartDeskPH"
         description="Welcome to SmartDeskPH."
         canonical="https://nine4-3.vercel.app/"
@@ -21,9 +22,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.png" />
       </Head>
       <Header />
-      <Main />
-      <FAQ/>
+        <PolicyContent/>
       <Footer />
-    </div>
-  );
+</div>
+        )
 }

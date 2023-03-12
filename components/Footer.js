@@ -4,14 +4,14 @@ export default function Footer() {
       <div className="max-w-5xl xl:max-w-5xl mx-auto divide-y divide-gray-900 px-4 sm:px-6 md:px-8">
         <ul className="text-sm font-medium sm:pb-20 grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-y-10">
           <li className="space-y-5 row-span-2">
-            <h2 className="text-2xl tracking-wide text-white">Company</h2>
+            <h2 className="text-2xl tracking-wide text-white">SmartDesk</h2>
             <ul className="space-y-4 text-md">
               <li>
                 <a
                   className="hover:text-white transition-colors duration-200 text-xl"
-                  href="/"
+                  href="/about"
                 >
-                  Jobs
+                  About Us
                 </a>
               </li>
               <li>
@@ -19,36 +19,37 @@ export default function Footer() {
                   className="hover:text-white transition-colors duration-200 text-xl"
                   href="/"
                 >
-                  Merch
+                  Contact Us
                 </a>
               </li>{" "}
+            
               <li>
                 <a
                   className="hover:text-white transition-colors duration-200 text-xl"
-                  href="/"
+                  href="https://blog.smartdeskph.com"
                 >
-                  Brand
-                </a>
-              </li>{" "}
-              <li>
-                <a
-                  className="hover:text-white transition-colors duration-200 text-xl"
-                  href="/"
-                >
-                  Meetups
+                  Stories
                 </a>
               </li>
             </ul>
           </li>
           <li className="space-y-5 row-span-2">
-            <h2 className="text-2xl tracking-wide text-white">Newsroom</h2>
+            <h2 className="text-2xl tracking-wide text-white">E-Store</h2>
             <ul className="space-y-4">
+            <li>
+                <a
+                  className="hover:text-white transition-colors duration-200 text-xl"
+                  href="https://store.smartdeskph.com/"
+                >
+                    Main Store 
+                </a>
+              </li>
               <li>
                 <a
                   className="hover:text-white transition-colors duration-200 text-xl"
-                  href="/"
+                  href="https://www.lazada.com.ph/products/i3286986923.html?spm=a1zawj.24863640.table_online_product.1.3c794edfskE0y1"
                 >
-                  News
+                  Lazada
                 </a>
               </li>
               <li>
@@ -56,17 +57,10 @@ export default function Footer() {
                   className="hover:text-white transition-colors duration-200 text-xl"
                   href="/"
                 >
-                  Press
+                Shopee
                 </a>
               </li>
-              <li>
-                <a
-                  className="hover:text-white transition-colors duration-200 text-xl"
-                  href="/"
-                >
-                  Blog
-                </a>
-              </li>
+              
             </ul>
           </li>
           <li className="space-y-5 row-span-2">
@@ -77,7 +71,7 @@ export default function Footer() {
                   className="hover:text-white transition-colors duration-200 text-xl"
                   href="/"
                 >
-                  Hosting
+                  Standing Desk
                 </a>
               </li>
               <li>
@@ -85,7 +79,7 @@ export default function Footer() {
                   className="hover:text-white transition-colors duration-200 text-xl"
                   href="/"
                 >
-                  Domains
+                  Table Tops
                 </a>
               </li>
               <li>
@@ -93,7 +87,7 @@ export default function Footer() {
                   className="hover:text-white transition-colors duration-200 text-xl"
                   href="/"
                 >
-                  Security
+                  Monitor Riser
                 </a>
               </li>
               <li>
@@ -101,7 +95,7 @@ export default function Footer() {
                   className="hover:text-white transition-colors duration-200 text-xl"
                   href="/"
                 >
-                  SSL
+                  Cable Management
                 </a>
               </li>
             </ul>
@@ -112,15 +106,15 @@ export default function Footer() {
               <li>
                 <a
                   className="hover:text-white transition-colors duration-200 text-xl"
-                  href="/"
+                  href="https://www.linkedin.com/company/smartdeskph/"
                 >
-                  Twitter
+                  LinkedIn
                 </a>
               </li>
               <li>
                 <a
                   className="hover:text-white transition-colors duration-200 text-xl"
-                  href="/"
+                  href="https://web.facebook.com/AutonomousDesk?_rdc=1&_rdr"
                 >
                   Facebook
                 </a>
@@ -128,7 +122,7 @@ export default function Footer() {
               <li>
                 <a
                   className="hover:text-white transition-colors duration-200 font-semibold text-xl"
-                  href="/"
+                  href="https://www.instagram.com/smartdesk.ph/"
                 >
                   Instagram
                 </a>
@@ -140,7 +134,7 @@ export default function Footer() {
           <ul className="flex flex-col space-y-2 lg:mb-0 sm:space-y-0 sm:space-x-5 sm:flex-row">
             <li>
               <a
-                href="/"
+                href="/terms"
                 className="text-md text-gray-200 hover:text-white transition-colors duration-300 hover:text-deep-purple-accent-400 font-semibold"
               >
                 Terms of Service
@@ -148,13 +142,13 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="/"
+                href="/privacy"
                 className="text-md text-gray-200 hover:text-white transition-colors duration-300 hover:text-deep-purple-accent-400 font-semibold"
               >
                 Privacy Policy
               </a>
             </li>
-            <li>
+            {/* <li>
               <a
                 href="/"
                 className="text-md text-gray-200 hover:text-white transition-colors duration-300 hover:text-deep-purple-accent-400 font-semibold"
@@ -169,13 +163,13 @@ export default function Footer() {
               >
                 Cookie Policy
               </a>
-            </li>
+            </li> */}
             <li>
               <a
-                href="/"
+                href="/policy"
                 className="text-md text-gray-200 hover:text-white transition-colors duration-300 hover:text-deep-purple-accent-400 font-semibold"
               >
-                Partners
+                Refund Policy
               </a>
             </li>
           </ul>
@@ -184,7 +178,7 @@ export default function Footer() {
               href="/"
               className="text-md text-gray-200 hover:text-white transition-colors duration-300 hover:text-deep-purple-accent-400 font-semibold tracking-tight"
             >
-              © 2021 Company Inc.
+              © 2020 SmartDeskPh
             </a>
           </ul>
         </div>
