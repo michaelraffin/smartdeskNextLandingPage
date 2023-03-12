@@ -1,3 +1,4 @@
+import React from "react";
 import Head from "next/head";
 import Header from "../components/Header";
 import Main from "../components/Main";
@@ -6,6 +7,15 @@ import FAQ from "../components/FAQ";
 import { NextSeo } from "next-seo";
 
 export default function Home() {
+  React.useEffect(() => {
+    const handleContextmenu = e => {
+        e.preventDefault()
+    }
+    document.addEventListener('contextmenu', handleContextmenu)
+    return function cleanup() {
+        document.removeEventListener('contextmenu', handleContextmenu)
+    }
+}, [ ])
   return (
     <div className="text-black bg-black">
       <NextSeo
