@@ -2,10 +2,10 @@ export default function Main() {
   return (
     <section class="text-gray-600 body-font">
       <div class="max-w-5xl pt-52 pb-24 mx-auto">
-        <h1 class="text-80 text-center font-4 lh-6 ld-04 font-bold text-white mb-6">
+        <h1 class="lg:text-8xl text-4xl md:text-8xl text-center font-4 lh-6 ld-04 font-bold text-white mb-6">
 Build your dream workspace
         </h1>
-        <h2 class="text-2xl font-4 font-semibold lh-6 ld-04 pb-11 text-gray-700 text-center">
+        <h2 class="lg:text-2xl md:text-2xl text-1xl font-4 font-semibold lh-6 ld-04 pb-11 text-gray-700 text-center">
        {/* Your not t/ypical desk,   with our dual motor standing desk
           <br /> */}
           Your not-typical desk. Built for professional creators.
