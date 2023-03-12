@@ -10,20 +10,21 @@ Build your dream workspace
           <br /> */}
           Your not-typical desk. Built for professional creators.
         </h2>
-        <div className="ml-6 text-center">
+        <div class="max-w-6xl mx-auto px-4 sm:px-6 text-center">
+          {/* <div class="py-24 md:py-36"> */}
           <a
            target="_blank"
            href="https://action.smartdeskph.com"
-            className="rounded-full inline-flex items-center py-3 font-semibold text-black transition duration-500 ease-in-out transform bg-transparent bg-white px-7 text-md md:mt-0 hover:text-black hover:bg-white focus:shadow-outline"
+            className="rounded-full inline-flex items-center py-3 font-semibold text-black transition duration-500 ease-in-out transform bg-transparent bg-white lg:px-7 md:px-7 text-md md:mt-0 hover:text-black hover:bg-white focus:shadow-outline"
             
           >
             <div className="flex text-lg">
-              <span className="justify-center">View in action</span>
+              <span className="justify-center ml-2 mr-4 lg:ml-0 lg:mr-0">View in action</span>
             </div>
           </a>
           <a
           target="_blank"
-            className="rounded-full  inline-flex items-center py-3 font-semibold tracking-tighter text-white transition duration-500 ease-in-out transform bg-transparent ml-11 bg-gradient-to-r from-blue-500 to-blue-800 px-14 text-md md:mt-0 focus:shadow-outline"
+            className="rounded-full  inline-flex items-center py-3 font-semibold tracking-tighter text-white transition duration-500 ease-in-out transform bg-transparent lg:ml-11  ml-2 md:ml-11 bg-gradient-to-r from-blue-500 to-blue-800 px-14 text-md md:mt-0 focus:shadow-outline"
             href="https://store.smartdeskph.com"
           >
             <div className="flex text-lg">

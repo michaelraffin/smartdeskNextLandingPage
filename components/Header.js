@@ -9,12 +9,12 @@ export default function Header() {
     <header class="fixed top-0 w-full clearNav z-50">
       <div class="max-w-5xl mx-auto flex flex-wrap p-5 flex-col md:flex-row">
         <div className="flex flex-row items-center justify-between p-3 md:p-1">
-          {/* <a
+          <a
             href="/"
             class="flex text-3xl text-white font-bold mb-4 md:mb-0"
-          >SmartDeskPH
-          </a> */}
-          <img class="w-28 rounded-full h-auto"src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1667119587371-white-smart-desk.jpg"/>
+          >  <img class="w-28 rounded-full h-auto"src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1667119587371-white-smart-desk.jpg"/>
+          </a>
+        
           <button
             className="text-white pb-4 cursor-pointer leading-none px-3 py-1 md:hidden outline-none focus:outline-none content-end ml-auto"
             type="button"
