@@ -14,14 +14,14 @@ export default function Footer() {
                   About Us
                 </a>
               </li>
-              <li>
+              {/* <li>
                 <a
                   className="hover:text-white transition-colors duration-200 text-xl"
                   href="/"
                 >
                   Contact Us
                 </a>
-              </li>{" "}
+              </li>{" "} */}
             
               <li>
                 <a

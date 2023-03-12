@@ -49,11 +49,11 @@ function PolicyContent(props) {
 
 
                 </div>
-                <div class="grayscale-[50%]">
+                {/* <div class="grayscale-[50%]">
                 <img src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1678614310861-68889752_3503023913056450_883018737454678016_n-2.jpg"
 class="w-1/4 grayscale-[50%]"
  />
-</div>
+</div> */}
             
                 </div>
                 {/* </div> */}

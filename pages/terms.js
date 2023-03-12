@@ -18,7 +18,7 @@ export default function Policy() {
         }}
       />
       <Head>
-        <title>SmartDeskPH - Home</title>
+        <title>SmartDeskPH - Terms and Conditions</title>
         <link rel="icon" href="/favicon.png" />
       </Head>
       <Header />

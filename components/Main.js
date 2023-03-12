@@ -122,10 +122,10 @@ Build your dream workspace
         <div class="max-w-6xl mx-auto px-4 sm:px-6 text-center">
           <div class="py-24 md:py-36">
             <h1 class="mb-5 text-6xl font-bold text-white">
-              Discuss with us your current desk problem
+              Tell us your preferred design.
             </h1>
             <h1 class="mb-9 text-2xl font-semibold text-gray-200">
-              Enter your email and my team will contact you straight away.
+              Enter your email and one of our team will contact you straight away.
             </h1>
             <input
               type="email"
