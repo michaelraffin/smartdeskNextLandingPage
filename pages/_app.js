@@ -1,8 +1,27 @@
 import "../styles/globals.css";
+import Head from "next/head";
 import Script from "next/script";
 function MyApp({ Component, pageProps }) {
 
   return <>
+  <Head>
+  <meta name="keywords" content="SmartDeskPh, Standing Desk in Ph ,Autonomous,
+      Smart Desk,
+      Standing Desk,
+      Dual Motor,
+      Sit-stand desk,
+      Dual motor desk,
+      Solid wood desk,
+      Adjustable height desk,
+      Ergonomic desk,
+      Office furniture,
+      Health and wellness,
+      Home office,
+      Automatic Standing Desk,
+      Computer Desk,
+      Computer Gaming Desk,
+      Computer Desk"/>
+    </Head>
     <Script 
       strategy="afterInteractive"
       src="https://www.googletagmanager.com/gtag/js?id=G-5VVC6QK17C"/>
