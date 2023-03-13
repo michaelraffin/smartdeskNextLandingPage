@@ -160,7 +160,7 @@ class FAQ extends Component {
         <div class="max-w-6xl mx-auto px-4 sm:px-6 text-center">
           <div class="py-24 md:py-36">
             <h1 class="mb-5 text-6xl font-bold text-white">
-              FAQ's
+              FAQs
             </h1>
             <div class="space-y-4">
                 {FaqItems.map(item=> {
