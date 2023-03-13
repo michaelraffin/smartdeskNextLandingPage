@@ -21,10 +21,29 @@ export default function Home() {
       <NextSeo
         title="SmartDeskPH - Home"
         description="Welcome to SmartDeskPH."
-        canonical="https://nine4-3.vercel.app/"
+        canonical="https://www.smartdeskph.com/"
+        // openGraph={{
+          // url: "https://www.smartdeskph.com/",
+        // }}
         openGraph={{
-          url: "https://nine4-3.vercel.app/",
-        }}
+          type: 'article',
+          article: {
+            content:'Michael Raffin Maculba , Oh you are here to stalk me',
+              authors: [
+                  'https://www.linkedin.com/in/michael-raffin-paculba-580761b8/'
+                  
+              ],
+              tags: ['Autonomous', 'Smart Desk', 'Standing Desk','Automatic Standing Desk','Computer Desk','Computer Gaming Desk','Computer Desk','SmartDeskPh','SmartDesk Ph'],
+          },
+          url: "https://www.smartdeskph.com/",
+          images: {
+              url: 'https://localflowershop.sgp1.digitaloceanspaces.com/product/1667119587371-white-smart-desk.jpg',
+              width: 850,
+              height: 650,
+              alt: 'Photo of text',
+          },
+          site_name: 'Next Blog'
+      }}
       />
       <Head>
         <title>SmartDeskPH - Home</title>
