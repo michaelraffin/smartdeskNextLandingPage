@@ -5,6 +5,8 @@ function MyApp({ Component, pageProps }) {
 
   return <>
   <Head>
+<meta name="robots" content="nofollow"/>
+<meta name="googlebot" content="noindex"/>
   <meta name="keywords" content="SmartDeskPh, Standing Desk in Ph ,Autonomous,
       Smart Desk,
       Standing Desk,
