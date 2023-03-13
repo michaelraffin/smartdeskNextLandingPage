@@ -37,17 +37,17 @@ Build your dream workspace
         <img
           className="object-cover rounded-lg object-center w-3/4 mb-10 hover:border-white hover:border shadow-md g327"
           alt="Placeholder Image"
-          src="https://images.unsplash.com/photo-1612534472774-a7d52cdf4836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHw%3D&w=1000&q=80"
+          src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1678705371867-photo-1612534472774-a7d52cdf4836.jpeg"
         ></img>
          <img
           className="object-cover rounded-lg object-center w-3/4 mb-10 hover:border-white hover:border shadow-md g327"
           alt="Placeholder Image"
-          src="https://www.minimaldesksetups.com/wp-content/uploads/2021/06/175870566_821692705405057_8076442475726502893_n.jpg"
+          src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1678705394093-175870566_821692705405057_8076442475726502893_n.jpeg"
         ></img>
          <img
           className="object-cover rounded-lg object-center w-3/4 mb-10 hover:border-white hover:border shadow-md g327"
           alt="Placeholder Image"
-          src="https://cdn.arstechnica.net/wp-content/uploads/2023/03/Ergonofis-Sway-scaled.jpg"
+          src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1678705646928-sample_only_-scaled_cleanup.jpeg"
         ></img>
       </div>
       <h2 className="pt-40 mb-1 text-2xl font-semibold tracking-tighter text-center text-gray-200 lg:text-7xl md:text-6xl">
@@ -64,7 +64,7 @@ Build your dream workspace
             Less hassle
           </h3>
           <p class="pt-2 value-text text-md text-gray-200 fkrr1">
-           Dealing different suppliers just to built your dream desk is chaos, now. You only need to settle your downpayment then wait for a couple weeks.
+          Dealing with different suppliers just to build your dream desk is a very time-consuming process, now. You only need to settle your down payment and then wait for a couple of weeks.
           </p>
         </div>
         <div class="ktq4">
@@ -73,7 +73,7 @@ Build your dream workspace
             Premium Quality
           </h3>
           <p class="pt-2 value-text text-md text-gray-200 fkrr1">
-            With the help of our international suppliers, we ensure the quality and standard desk design.
+          With the help of our local and international suppliers, we ensure quality and standard desk design.
           </p>
         </div>
         <div class="ktq4">
@@ -82,16 +82,16 @@ Build your dream workspace
             Budget Friendly
           </h3>
           <p class="pt-2 value-text text-md text-gray-200 fkrr1">
-            Don't hesitate to ask, we dont bite . We value every penny you spend.
+            Don't hesitate to ask. We value every penny you spend.
           </p>
         </div>
         <div class="ktq4">
           <img className="w-10 bg-white rounded-full" src="https://static-00.iconduck.com/assets.00/emoji-sad-icon-512x512-vomssqlr.png"></img>
           <h3 class="pt-3 font-semibold text-lg text-white">
-          Feeling
+          Table Top
           </h3>
           <p class="pt-2 value-text text-md text-gray-200 fkrr1">
-          I know the feels being in the shit table.
+          We use 100% natural wood for our tabletop.
           </p>
         </div>
       </div>
@@ -126,18 +126,18 @@ Build your dream workspace
               Tell us your preferred design.
             </h1>
             <h1 class="mb-9 text-2xl font-semibold text-gray-200">
-              Enter your email and one of our team will contact you straight away.
+              Shoot us a message and one of our team will contact you straight away.
             </h1>
             <input
               type="email"
               placeholder="jack@example.com"
               name="email"
               autocomplete="email"
-              class="border border-gray-600 w-1/4 pr-2 pl-2 py-3 mt-2 rounded-md text-gray-800 font-semibold hover:border-gray-700 bg-black"
+              class="border border-gray-600 w-1/4 pr-2 pl-2 py-3 mt-2 rounded-md text-white font-semibold hover:border-gray-700 bg-black"
             />{" "}
             <a
               class="inline-flex items-center px-14 py-3 mt-2 ml-2 font-medium text-black transition duration-500 ease-in-out transform bg-transparent border rounded-full bg-white"
-              href="/"
+              href="mailto:sales.smartdeskph@gmailc.om?subject=Inquerty"
             >
               <span class="justify-center">Subscribe</span>
             </a>

@@ -10,7 +10,7 @@ export default function Policy() {
     return (
       <div className="text-black bg-black">
         <NextSeo
-        title="Home: SmartDeskPH"
+        title="SmartDeskPH - Refund and Return Policy"
         description="Welcome to SmartDeskPH."
         canonical="https://nine4-3.vercel.app/"
         openGraph={{

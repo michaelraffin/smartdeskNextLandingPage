@@ -5,7 +5,7 @@ import Main from "../components/Main";
 import Footer from "../components/Footer";
 import FAQ from "../components/FAQ";
 import { NextSeo } from "next-seo";
-
+// import Script from "next/script";
 export default function Home() {
   React.useEffect(() => {
     const handleContextmenu = e => {
@@ -19,7 +19,7 @@ export default function Home() {
   return (
     <div className="text-black bg-black">
       <NextSeo
-        title="Home: SmartDeskPH"
+        title="SmartDeskPH - Home"
         description="Welcome to SmartDeskPH."
         canonical="https://nine4-3.vercel.app/"
         openGraph={{

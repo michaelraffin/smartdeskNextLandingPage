@@ -4,7 +4,7 @@ function PolicyContent(props) {
     return (
         <div>
 
-<div className='ml-60 mr-60 mb-40'>
+<div className='lg:ml-60 lg:mr-60 lg:mb-40 md:ml-60 md:mr-60 md:mb-40'>
                   <section class="relative pb-24">
         <div class="max-w-6xl mx-auto px-4 sm:px-6 text-center">
           <div class="py-24 md:py-36">
