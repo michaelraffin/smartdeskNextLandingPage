@@ -10,11 +10,11 @@ let FaqItems = [
     },
     {
     title: "What is the height range of your standing desks",
-    answer:"125cm"
+    answer:"125cm."
 },
 {
 title: "How long does it take to assemble your standing desk",
-answer:"1 person can take up to 30-45mns, 2 persons 10-15mns"
+answer:"1 person can take up to 30-45mns, 2 persons 10-15mns."
 },
 {
 title: "What types of wood do you use for your standing desks",
@@ -30,7 +30,7 @@ answer:"Don't apply any hard solution, and Don't put any sharp objects that will
 },
 {
 title: "Do you offer any warranty or guarantee for your standing desks",
-answer:"1 Year warranty for table wood top and 2 years Factory Waranty for table frame"
+answer:"1 Year warranty for table wood top and 2 years Factory Waranty for table frame."
 },
 {
 title: "Do you offer any discounts or promotions for bulk orders?",
@@ -42,7 +42,7 @@ answer:"2-3 weeks if you buy a table set, our Table Tops were custom built speci
 },
 {
 title: "What is your return and refund policy",
-answer:"Follow this link. www.smartdeskph.com/policy",
+answer:"Please refer to this link www.smartdeskph.com/policy.",
 isLink: true,
 link:'/policy'
 },
