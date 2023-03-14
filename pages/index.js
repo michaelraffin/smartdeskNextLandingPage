@@ -30,25 +30,25 @@ export default function Home() {
         description="SmartDeskPH is a premium quality automatic standing desk that comes with a solid wood table top and dual silent motors for smooth and quiet operation. With its sleek and modern design, this standing desk allows you to easily switch between sitting and standing positions throughout the workday, promoting a healthier and more productive work experience. Its sturdy construction and advanced features make it an ideal choice for any home or office setting"
         canonical="https://www.smartdeskph.com/"
         siteName = "SmartDeskPh"
-        openGraph={{
-          type: 'article',
-          article: {
-            content:'SmartDeskPH is a premium quality automatic standing desk that comes with a solid wood table top and dual silent motors for smooth and quiet operation. With its sleek and modern design, this standing desk allows you to easily switch between sitting and standing positions throughout the workday, promoting a healthier and more productive work experience. Its sturdy construction and advanced features make it an ideal choice for any home or office setting',
-              authors: [
-                  'https://www.linkedin.com/in/michael-raffin-paculba-580761b8/'
+      //   openGraph={{
+      //     type: 'article',
+      //     article: {
+      //       content:'SmartDeskPH is a premium quality automatic standing desk that comes with a solid wood table top and dual silent motors for smooth and quiet operation. With its sleek and modern design, this standing desk allows you to easily switch between sitting and standing positions throughout the workday, promoting a healthier and more productive work experience. Its sturdy construction and advanced features make it an ideal choice for any home or office setting',
+      //         authors: [
+      //             'https://www.linkedin.com/in/michael-raffin-paculba-580761b8/'
                   
-              ],
-              tags: ['Autonomous', 'Smart Desk', 'Standing Desk','Automatic Standing Desk','Computer Desk','Computer Gaming Desk','Computer Desk','SmartDeskPh','SmartDesk Ph'],
-          },
-          url: "https://blog.smartdeskph.com/posts/finger-joint-table-by-smartdeskph",
-          images: {
-              url: 'https://localflowershop.sgp1.digitaloceanspaces.com/product/1667119587371-white-smart-desk.jpg',
-              width: 850,
-              height: 650,
-              alt: 'SmartDeskPh Photo ',
-          },
-          site_name: 'SmartDeskPh blog'
-      }}
+      //         ],
+      //         tags: ['Autonomous', 'Smart Desk', 'Standing Desk','Automatic Standing Desk','Computer Desk','Computer Gaming Desk','Computer Desk','SmartDeskPh','SmartDesk Ph'],
+      //     },
+      //     url: "https://blog.smartdeskph.com/posts/finger-joint-table-by-smartdeskph",
+      //     images: {
+      //         url: 'https://localflowershop.sgp1.digitaloceanspaces.com/product/1667119587371-white-smart-desk.jpg',
+      //         width: 850,
+      //         height: 650,
+      //         alt: 'SmartDeskPh Photo ',
+      //     },
+      //     site_name: 'SmartDeskPh blog'
+      // }}
       />
       <Head>
         <title>SmartDeskPH - Home</title>
