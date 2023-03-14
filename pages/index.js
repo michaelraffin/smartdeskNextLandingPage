@@ -47,7 +47,7 @@ export default function Home() {
       //         height: 650,
       //         alt: 'SmartDeskPh Photo ',
       //     },
-      //     site_name: 'SmartDeskPh blog'
+      //     site_name: 'https://www.smartdeskph.com'
       // }}
       />
       <Head>
