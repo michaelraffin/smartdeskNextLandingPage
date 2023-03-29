@@ -36,18 +36,18 @@ Build your dream workspace
       <div className="container flex flex-col items-center justify-center mx-auto">
         <img
           className="object-cover rounded-lg object-center w-3/4 mb-10 hover:border-white hover:border shadow-md g327"
-          alt="Placeholder Image"
-          src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1678705371867-photo-1612534472774-a7d52cdf4836.jpeg"
-        ></img>
-         <img
-          className="object-cover rounded-lg object-center w-3/4 mb-10 hover:border-white hover:border shadow-md g327"
-          alt="Placeholder Image"
+          alt="StandingDesk #1"
           src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1678705394093-175870566_821692705405057_8076442475726502893_n.jpeg"
         ></img>
          <img
           className="object-cover rounded-lg object-center w-3/4 mb-10 hover:border-white hover:border shadow-md g327"
-          alt="Placeholder Image"
+          alt="StandingDesk #2"
           src="https://localflowershop.sgp1.digitaloceanspaces.com/product/1678705646928-sample_only_-scaled_cleanup.jpeg"
+        ></img>
+         <img
+          className="object-cover rounded-lg object-center w-3/4 mb-10 hover:border-white hover:border shadow-md g327"
+          alt="StandingDesk #3"
+          src="https://p16-oec-common-useast2a.ibyteimg.com/tos-useast2a-i-hyqnpo4tzp-aiso/68d64bdeef4a4d14bc0001d4cacb09d0~tplv-hyqnpo4tzp-origin-jpeg.jpeg?"
         ></img>
       </div>
       <h2 className="pt-40 mb-1 text-2xl font-semibold tracking-tighter text-center text-gray-200 lg:text-7xl md:text-6xl">
