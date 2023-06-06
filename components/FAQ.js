@@ -30,7 +30,7 @@ answer:"Don't apply any hard solution, and Don't put any sharp objects that will
 },
 {
 title: "Do you offer any warranty or guarantee for your standing desks",
-answer:"1 Year warranty for table wood top and 1 years Factory Waranty for table frame."
+answer:"1 Year warranty for table wood top and 1 year Factory Waranty for table frame."
 },
 {
 title: "Do you offer any discounts or promotions for bulk orders?",
